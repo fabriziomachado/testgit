@@ -2,7 +2,7 @@
 
 Passos para o seu primeiro "push"
 
-```sh
+```
 $ git init
 $ touch README.md
 $ vim README.md
