@@ -1,4 +1,4 @@
-i### Fazendo o primeiro push
+### Fazendo o primeiro push
 
 Passos para o seu primeiro "push"
 
